@@ -1,0 +1,9 @@
+dn: dc=gamers-congress,dc=local
+objectClass: dcObject
+objectClass: organization
+dc: gamers-congress
+o : gamers-congress
+
+dn: ou=Users,dc=gamers-congress,dc=local
+objectClass: organizationalUnit
+ou: Users
