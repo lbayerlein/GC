@@ -1,6 +1,8 @@
-#
-# Version 1.0
-# Script für die GamersCongress Lan
-# Komponenten: Virtualisierung, Monitoring, GC Server
-# Author: Ludwig Bayerlein
+Script für den Gamers Congress.
 
+Wesentlicher Bestandteil sind
+ * zentraler Anmeldeserver
+ * Mailserver
+ * Monitoring
+ * Visualisierung (Monitoring)
+ * CS Server
